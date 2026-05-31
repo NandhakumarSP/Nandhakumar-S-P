@@ -1,5 +1,19 @@
-### Hi there 👋
+# Nandakumar S P
 
+**Backend Software Engineer** | Java & Spring Boot | Python | DSA | System Design
+
+IIT Madras Foundation (Programming & Data Science) · BE CSE (CGPA 8.52)
+
+## Currently Learning
+- Java from scratch (Jun 2026)
+- Spring Boot 3
+- System Design & LLD
+
+## Skills
+- **Languages**: Python, Java, SQL, Bash
+- **Backend**: FastAPI, Spring Boot, REST APIs
+- **Databases**: PostgreSQL, MongoDB
+- **DevOps**: Docker, Linux (LPIC-1), Ansible
 <!--
 **Cybernanz/Cybernanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
