@@ -5,7 +5,7 @@
 IIT Madras Foundation (Programming & Data Science) · BE CSE (CGPA 8.52)
 
 ## Currently Learning
-- Java from scratch (Jun 2026)
+- Java 
 - Spring Boot 3
 - System Design & LLD
 
