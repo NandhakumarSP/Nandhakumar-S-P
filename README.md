@@ -2,7 +2,7 @@
 
 **Backend Software Engineer** | Java & Spring Boot | Python | DSA | System Design
 
-IIT Madras Foundation (Programming & Data Science) · BE CSE (CGPA 8.52)
+BE CSE (CGPA 8.52)
 
 ## Currently Learning
 - Java 
